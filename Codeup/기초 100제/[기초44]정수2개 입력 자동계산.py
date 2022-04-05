@@ -1,0 +1,8 @@
+a,b = input().split()
+print(int(a)+int(b))
+print(int(a)-int(b))
+print(int(a)*int(b))
+print(int(a)//int(b))
+print(int(a)%int(b))
+c = int(a)/int(b)
+print(format(c, ".2f"))
