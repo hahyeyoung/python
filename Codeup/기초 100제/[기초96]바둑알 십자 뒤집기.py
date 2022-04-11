@@ -2,6 +2,7 @@
 다시풀기
 '''
 
+
 d=[]
 for i in range(20):
     d.append([])
