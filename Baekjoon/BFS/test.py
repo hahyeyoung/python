@@ -13,7 +13,6 @@ for i in range(n):
 dx = [-1, 1, 0, 0]
 dy = [0, 0, -1, 1]
 
-
 def bfs():
     while queue:
         x, y = queue.popleft()
@@ -33,3 +32,4 @@ for i in graph:
             exit(0)
     result = max(result, max(i))
 print(result - 1)
+
