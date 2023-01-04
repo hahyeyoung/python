@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a01a78dd-b2df-41ad-bd94-f149acde53c3" name="Default Changelist" comment="2022.09.22">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/level0/잘라서 배열로 저장하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/level0/잘라서 배열로 저장하기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +51,8 @@
       <recent name="C:\Users\하혜영\PycharmProjects\python\Programmers\level2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.장애물 인식 프로그램">
-    <configuration name="장애물 인식 프로그램" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.22년-1차3">
+    <configuration name="21-3차2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/softeer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/포스코 코테/2021" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/softeer/장애물 인식 프로그램.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/포스코 코테/2021/21-3차2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15683 감시" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="21-4차1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/삼성 SW역량 테스트 기출" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/포스코 코테/2021" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/삼성 SW역량 테스트 기출/15683 감시.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/포스코 코테/2021/21-4차1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15684 사다리조작" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="22-1차1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/삼성 SW역량 테스트 기출" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/포스코 코테/2022" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/삼성 SW역량 테스트 기출/15684 사다리조작.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/포스코 코테/2022/22-1차1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15685 드래곤 커브" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="22년-1차3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/삼성 SW역량 테스트 기출" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/포스코 코테/2022" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/삼성 SW역량 테스트 기출/15685 드래곤 커브.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/포스코 코테/2022/22년-1차3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15686 치킨 배달" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="22-2차" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/삼성 SW역량 테스트 기출" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/포스코 코테/2022" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/삼성 SW역량 테스트 기출/15686 치킨 배달.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/포스코 코테/2022/22-2차.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.장애물 인식 프로그램" />
-        <item itemvalue="Python.15686 치킨 배달" />
-        <item itemvalue="Python.15685 드래곤 커브" />
-        <item itemvalue="Python.15684 사다리조작" />
-        <item itemvalue="Python.15683 감시" />
+        <item itemvalue="Python.22년-1차3" />
+        <item itemvalue="Python.22-2차" />
+        <item itemvalue="Python.22-1차1" />
+        <item itemvalue="Python.21-4차1" />
+        <item itemvalue="Python.21-3차2" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +337,63 @@
       <option name="project" value="LOCAL" />
       <updated>1665499165283</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="22.10.18">
+      <created>1666104353493</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1666104353493</updated>
+    </task>
+    <task id="LOCAL-00022" summary="2022.10.19">
+      <created>1666188788267</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1666188788270</updated>
+    </task>
+    <task id="LOCAL-00023" summary="2022.10.22">
+      <created>1666450182441</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1666450182449</updated>
+    </task>
+    <task id="LOCAL-00024" summary="2022.10.23">
+      <created>1666530614491</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1666530614507</updated>
+    </task>
+    <task id="LOCAL-00025" summary="2022.10.29">
+      <created>1667053534027</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1667053534029</updated>
+    </task>
+    <task id="LOCAL-00026" summary="2022.11.1">
+      <created>1667313779573</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1667313779573</updated>
+    </task>
+    <task id="LOCAL-00027" summary="2022.11.3">
+      <created>1667483683224</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1667483683226</updated>
+    </task>
+    <task id="LOCAL-00028" summary="23.01.03">
+      <created>1672760695619</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1672760695619</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -397,7 +454,15 @@
     <MESSAGE value="2020.10.07" />
     <MESSAGE value="2020.10.08" />
     <MESSAGE value="2022.10.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.10.11" />
+    <MESSAGE value="22.10.18" />
+    <MESSAGE value="2022.10.19" />
+    <MESSAGE value="2022.10.22" />
+    <MESSAGE value="2022.10.23" />
+    <MESSAGE value="2022.10.29" />
+    <MESSAGE value="2022.11.1" />
+    <MESSAGE value="2022.11.3" />
+    <MESSAGE value="23.01.03" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.01.03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -441,6 +506,16 @@
           <url>file://$PROJECT_DIR$/Baekjoon/브루트포스/7568 덩치.py</url>
           <line>1</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/포스코 코테/2022/22-2차.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programmers/level3/디스크 컨트롤러.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
