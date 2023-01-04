@@ -9,3 +9,4 @@ def solution(my_string):
     for i in numbers:
         answer += int(i)
     return answer
+
