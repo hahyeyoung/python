@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a01a78dd-b2df-41ad-bd94-f149acde53c3" name="Default Changelist" comment="2022.09.22">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmers/level0/잘라서 배열로 저장하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/level0/잘라서 배열로 저장하기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -393,7 +392,35 @@
       <option name="project" value="LOCAL" />
       <updated>1672760695619</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="23.01.04">
+      <created>1672843860565</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1672843860565</updated>
+    </task>
+    <task id="LOCAL-00030" summary="23.01.04">
+      <created>1672844079142</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1672844079142</updated>
+    </task>
+    <task id="LOCAL-00031" summary="23.01.04">
+      <created>1672844131022</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1672844131022</updated>
+    </task>
+    <task id="LOCAL-00032" summary="23.01.05">
+      <created>1672931319987</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1672931319987</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -462,7 +489,9 @@
     <MESSAGE value="2022.11.1" />
     <MESSAGE value="2022.11.3" />
     <MESSAGE value="23.01.03" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.01.03" />
+    <MESSAGE value="23.01.04" />
+    <MESSAGE value="23.01.05" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.01.05" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
