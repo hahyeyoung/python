@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a01a78dd-b2df-41ad-bd94-f149acde53c3" name="Default Changelist" comment="2022.09.22">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/level0/분수의 덧셈.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/level0/분수의 덧셈.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/level3/베스트앨범.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/level3/베스트앨범.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -420,7 +422,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672931319987</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="23.1.12">
+      <created>1673535044109</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1673535044110</updated>
+    </task>
+    <task id="LOCAL-00034" summary="23.1.13">
+      <created>1673621452251</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1673621452252</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -466,8 +482,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="최초 커밋" />
-    <MESSAGE value="테스트 커밋" />
     <MESSAGE value="테스트" />
     <MESSAGE value="2022.09.19" />
     <MESSAGE value="2022.09.20" />
@@ -491,7 +505,9 @@
     <MESSAGE value="23.01.03" />
     <MESSAGE value="23.01.04" />
     <MESSAGE value="23.01.05" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.01.05" />
+    <MESSAGE value="23.1.12" />
+    <MESSAGE value="23.1.13" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.1.13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
