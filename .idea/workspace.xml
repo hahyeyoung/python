@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a01a78dd-b2df-41ad-bd94-f149acde53c3" name="Default Changelist" comment="2022.09.22">
+    <list default="true" id="a01a78dd-b2df-41ad-bd94-f149acde53c3" name="Default Changelist" comment="2023.01.14">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmers/level0/분수의 덧셈.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/level0/분수의 덧셈.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmers/level3/베스트앨범.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/level3/베스트앨범.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +50,8 @@
       <recent name="C:\Users\하혜영\PycharmProjects\python\Programmers\level2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.22년-1차3">
-    <configuration name="21-3차2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.영화감독 숌">
+    <configuration name="영화감독 숌" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +59,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/포스코 코테/2021" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/브루트포스" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/포스코 코테/2021/21-3차2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/브루트포스/영화감독 숌.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="21-4차1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="체스판 다시 칠하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/포스코 코테/2021" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/브루트포스" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/포스코 코테/2021/21-4차1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/브루트포스/체스판 다시 칠하기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.영화감독 숌" />
+        <item itemvalue="Python.체스판 다시 칠하기" />
         <item itemvalue="Python.22년-1차3" />
         <item itemvalue="Python.22-2차" />
         <item itemvalue="Python.22-1차1" />
-        <item itemvalue="Python.21-4차1" />
-        <item itemvalue="Python.21-3차2" />
       </list>
     </recent_temporary>
   </component>
@@ -436,7 +434,42 @@
       <option name="project" value="LOCAL" />
       <updated>1673621452252</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="2023.01.14">
+      <created>1673705694507</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1673705694507</updated>
+    </task>
+    <task id="LOCAL-00036" summary="2023.01.17">
+      <created>1673966901944</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1673966901945</updated>
+    </task>
+    <task id="LOCAL-00037" summary="2023.01.18">
+      <created>1674053301377</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1674053301377</updated>
+    </task>
+    <task id="LOCAL-00038" summary="2023.01.19">
+      <created>1674140075346</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1674140075347</updated>
+    </task>
+    <task id="LOCAL-00039" summary="2023.01.20">
+      <created>1674226251206</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1674226251208</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -482,11 +515,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="테스트" />
-    <MESSAGE value="2022.09.19" />
-    <MESSAGE value="2022.09.20" />
-    <MESSAGE value="2022.09.21" />
-    <MESSAGE value="2022.09.22" />
     <MESSAGE value="2022.09.30" />
     <MESSAGE value="2022.10.01" />
     <MESSAGE value="2022.10.04" />
@@ -507,7 +535,12 @@
     <MESSAGE value="23.01.05" />
     <MESSAGE value="23.1.12" />
     <MESSAGE value="23.1.13" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.1.13" />
+    <MESSAGE value="2023.01.14" />
+    <MESSAGE value="2023.01.17" />
+    <MESSAGE value="2023.01.18" />
+    <MESSAGE value="2023.01.19" />
+    <MESSAGE value="2023.01.20" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.01.20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
