@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a01a78dd-b2df-41ad-bd94-f149acde53c3" name="Default Changelist" comment="2023.01.14">
+    <list default="true" id="a01a78dd-b2df-41ad-bd94-f149acde53c3" name="Default Changelist" comment="2023.01.22">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/1차원 배열/과제 안 내신분.py" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/1차원 배열/과제 안 내신분.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +51,8 @@
       <recent name="C:\Users\하혜영\PycharmProjects\python\Programmers\level2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.영화감독 숌">
-    <configuration name="영화감독 숌" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.골드바흐의 추측">
+    <configuration name="과제 안 내신분" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/브루트포스" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/1차원 배열" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/브루트포스/영화감독 숌.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/1차원 배열/과제 안 내신분.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="체스판 다시 칠하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="골드바흐의 추측" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/브루트포스" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/기본수학2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/브루트포스/체스판 다시 칠하기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/기본수학2/골드바흐의 추측.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="22-1차1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="개수 세기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/포스코 코테/2022" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/1차원 배열" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/포스코 코테/2022/22-1차1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/1차원 배열/개수 세기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="22년-1차3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="베스트랑 공준" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/포스코 코테/2022" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/기본수학2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/포스코 코테/2022/22년-1차3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/기본수학2/베스트랑 공준.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="22-2차" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1929 소수구하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/포스코 코테/2022" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/기본수학2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/포스코 코테/2022/22-2차.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/기본수학2/1929 소수구하기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.영화감독 숌" />
-        <item itemvalue="Python.체스판 다시 칠하기" />
-        <item itemvalue="Python.22년-1차3" />
-        <item itemvalue="Python.22-2차" />
-        <item itemvalue="Python.22-1차1" />
+        <item itemvalue="Python.골드바흐의 추측" />
+        <item itemvalue="Python.베스트랑 공준" />
+        <item itemvalue="Python.1929 소수구하기" />
+        <item itemvalue="Python.과제 안 내신분" />
+        <item itemvalue="Python.개수 세기" />
       </list>
     </recent_temporary>
   </component>
@@ -469,7 +470,28 @@
       <option name="project" value="LOCAL" />
       <updated>1674226251208</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="2023.01.21">
+      <created>1674312440401</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1674312440403</updated>
+    </task>
+    <task id="LOCAL-00041" summary="2023.01.21">
+      <created>1674312457048</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1674312457048</updated>
+    </task>
+    <task id="LOCAL-00042" summary="2023.01.22">
+      <created>1674399060573</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1674399060574</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -515,8 +537,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.09.30" />
-    <MESSAGE value="2022.10.01" />
     <MESSAGE value="2022.10.04" />
     <MESSAGE value="2022.10.05" />
     <MESSAGE value="2022.10.06" />
@@ -540,7 +560,9 @@
     <MESSAGE value="2023.01.18" />
     <MESSAGE value="2023.01.19" />
     <MESSAGE value="2023.01.20" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.01.20" />
+    <MESSAGE value="2023.01.21" />
+    <MESSAGE value="2023.01.22" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.01.22" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
