@@ -1,14 +1,9 @@
 num = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30]
-result = []
 
-test = list(map(int,input().split('\n')))
-print(test)
-for i in test:
-    if i not in num:
-        result.append(i)
-result.sort()
+for i in range(28):
+    a = int(input())
+    num.remove(a)
+num.sort()
 
-print(result)
-
-# for j in result:
-#     print(j)
+for i in num:
+    print(i)
