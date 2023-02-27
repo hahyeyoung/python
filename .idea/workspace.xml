@@ -50,8 +50,8 @@
       <recent name="C:\Users\하혜영\PycharmProjects\python\Programmers\level2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.포도주 시식">
-    <configuration name="쉬운 계단 수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.N과 M(12)">
+    <configuration name="정수 삼각형" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +63,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/동적 계획법1/쉬운 계단 수.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/동적 계획법1/정수 삼각형.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="포도주 시식" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="소수의 연속합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +80,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/동적 계획법1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/투 포인터" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/동적 계획법1/포도주 시식.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/투 포인터/소수의 연속합.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="트리의 지름" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/트리" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/트리/트리의 지름.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,7 +240,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="정수 삼각형" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="N과 M(10)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,11 +248,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/동적 계획법1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/N과 M" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/동적 계획법1/정수 삼각형.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/N과 M/N과 M(10).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,7 +261,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1로 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="N과 M(12)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,11 +269,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/동적 계획법1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/N과 M" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/동적 계획법1/1로 만들기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/N과 M/N과 M(12).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,7 +282,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RGB거리" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="N과 M(6)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,11 +290,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/동적 계획법1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/N과 M" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/동적 계획법1/RGB거리.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/N과 M/N과 M(6).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,7 +303,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="검문" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="N과 M(7)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,11 +311,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/정수론 및 조합론" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/N과 M" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/정수론 및 조합론/검문.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/N과 M/N과 M(7).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="N과 M(9)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/N과 M" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/N과 M/N과 M(9).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="냅색문제" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/투 포인터" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/투 포인터/냅색문제.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -389,11 +452,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.포도주 시식" />
-        <item itemvalue="Python.쉬운 계단 수" />
-        <item itemvalue="Python.1로 만들기" />
-        <item itemvalue="Python.정수 삼각형" />
-        <item itemvalue="Python.RGB거리" />
+        <item itemvalue="Python.N과 M(12)" />
+        <item itemvalue="Python.N과 M(10)" />
+        <item itemvalue="Python.N과 M(9)" />
+        <item itemvalue="Python.N과 M(7)" />
+        <item itemvalue="Python.N과 M(6)" />
       </list>
     </recent_temporary>
   </component>
@@ -405,34 +468,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648965769533</updated>
-    </task>
-    <task id="LOCAL-00008" summary="2022.09.20">
-      <created>1663685199211</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1663685199213</updated>
-    </task>
-    <task id="LOCAL-00009" summary="2022.09.21">
-      <created>1663768841638</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1663768841640</updated>
-    </task>
-    <task id="LOCAL-00010" summary="2022.09.22">
-      <created>1663855695849</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1663855695852</updated>
-    </task>
-    <task id="LOCAL-00011" summary="2022.09.22">
-      <created>1663857650091</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1663857650092</updated>
     </task>
     <task id="LOCAL-00012" summary="2022.09.22">
       <created>1663857755286</created>
@@ -749,7 +784,35 @@
       <option name="project" value="LOCAL" />
       <updated>1676021100154</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="2023.02.13">
+      <created>1676299317294</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1676299317300</updated>
+    </task>
+    <task id="LOCAL-00058" summary="2023.02.15">
+      <created>1676445866438</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1676445866440</updated>
+    </task>
+    <task id="LOCAL-00059" summary="2023.02.16">
+      <created>1676536281081</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1676536281112</updated>
+    </task>
+    <task id="LOCAL-00060" summary="2023.02.17">
+      <created>1676644909600</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1676644909602</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -795,10 +858,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.01.03" />
-    <MESSAGE value="23.01.04" />
-    <MESSAGE value="23.01.05" />
-    <MESSAGE value="23.1.12" />
     <MESSAGE value="23.1.13" />
     <MESSAGE value="2023.01.14" />
     <MESSAGE value="2023.01.17" />
@@ -820,7 +879,11 @@
     <MESSAGE value="2023.2.8" />
     <MESSAGE value="2023.2.9" />
     <MESSAGE value="2023.2.10" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.2.10" />
+    <MESSAGE value="2023.02.13" />
+    <MESSAGE value="2023.02.15" />
+    <MESSAGE value="2023.02.16" />
+    <MESSAGE value="2023.02.17" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.02.17" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
